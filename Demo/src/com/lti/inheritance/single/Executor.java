@@ -8,6 +8,7 @@ public class Executor {
 		
 		Television t1 = new Television("Sony");
 		t1 = new Television("Samsung");
+		t2 = new Television("MI";
 		System.out.println(t1.getCompanyName());
 
 	}
